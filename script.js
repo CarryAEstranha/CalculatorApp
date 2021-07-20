@@ -343,8 +343,6 @@ function calculator(props)
         // Reseta point
         point = true;
     }
-
-    console.log(vectorOperations);
 }
 
 ////////////////////
